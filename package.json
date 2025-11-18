@@ -1,0 +1,26 @@
+{
+  "name": "implementacao-de-padrao-de-projeto-observador",
+  "version": "1.0.0",
+  "description": "Trabalho 1 - Arquitetura de Software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaoPedro-PSM/Implementacao-de-Padrao-de-Projeto-Observador.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JoaoPedro-PSM/Implementacao-de-Padrao-de-Projeto-Observador/issues"
+  },
+  "homepage": "https://github.com/JoaoPedro-PSM/Implementacao-de-Padrao-de-Projeto-Observador#readme",
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
