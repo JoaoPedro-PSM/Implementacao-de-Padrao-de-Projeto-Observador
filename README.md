@@ -1,5 +1,7 @@
 # Implementacao-de-Padrao-de-Projeto-Observador
-Alunos: João Pedro Pereira de Souza Mila e João Victor dos Santos Assis de Oliveira
+Alunos: 
+João Pedro Pereira de Souza Mila - 202426610028
+João Victor dos Santos Assis de Oliveira - 202426610025
 Trabalho 1 - Arquitetura de Software
 
 durante meus commits no projeto voce pode acompanhar o desenvolvimento do codigo/projeto e acompanhara logica que utilizei para entender e aplicar o padrão de projeto do observer.
